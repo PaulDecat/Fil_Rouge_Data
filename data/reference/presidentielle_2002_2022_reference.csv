@@ -1,0 +1,72 @@
+candidat,voix,%ins,%exp,tour,annee,parti,famille,niveau_geo,territoire
+M. CHIRAC Jacques,5666021,13.75,19.88,1,2002,RPR,Droite,national,France
+M. LE PEN Jean-Marie,4804772,11.66,16.86,1,2002,FN,Extrême droite,national,France
+M. JOSPIN Lionel,4610267,11.19,16.18,1,2002,PS,Gauche,national,France
+M. BAYROU François,1949219,4.73,6.84,1,2002,UDF,Centre,national,France
+Mme LAGUILLER Arlette,1630118,3.96,5.72,1,2002,LO,Extrême gauche,national,France
+M. CHEVENEMENT Jean-Pierre,1518568,3.69,5.33,1,2002,MDC,Divers,national,France
+M. MAMERE Noël,1495774,3.63,5.25,1,2002,Verts,Écologie,national,France
+M. BESANCENOT Olivier,1210562,2.94,4.25,1,2002,LCR,Extrême gauche,national,France
+M. SAINT-JOSSE Jean,1204801,2.92,4.23,1,2002,CPNT,Divers,national,France
+M. MADELIN Alain,1113551,2.70,3.91,1,2002,DL,Divers,national,France
+M. HUE Robert,960548,2.33,3.37,1,2002,PCF,Extrême gauche,national,France
+M. MEGRET Bruno,667043,1.62,2.34,1,2002,MNR,Extrême droite,national,France
+Mme TAUBIRA Christiane,660515,1.60,2.32,1,2002,PRG,Gauche,national,France
+Mme LEPAGE Corinne,535875,1.30,1.88,1,2002,CAP21,Divers,national,France
+Mme BOUTIN Christine,339157,0.82,1.19,1,2002,FRS,Divers,national,France
+M. GLUCKSTEIN Daniel,132696,0.32,0.47,1,2002,PT,Extrême gauche,national,France
+M. CHIRAC Jacques,25537894,62.00,82.21,2,2002,RPR,Droite,national,France
+M. LE PEN Jean-Marie,5525034,13.41,17.79,2,2002,FN,Extrême droite,national,France
+M. SARKOZY Nicolas,11448663,25.74,31.18,1,2007,UMP,Droite,national,France
+Mme ROYAL Ségolène,9500112,21.36,25.87,1,2007,PS,Gauche,national,France
+M. BAYROU François,6820119,15.34,18.57,1,2007,UDF,Centre,national,France
+M. LE PEN Jean-Marie,3834530,8.62,10.44,1,2007,FN,Extrême droite,national,France
+M. BESANCENOT Olivier,1498581,3.37,4.08,1,2007,LCR,Extrême gauche,national,France
+M. de VILLIERS Philippe,818407,1.84,2.23,1,2007,MPF,Souverainiste,national,France
+Mme BUFFET Marie-George,707268,1.59,1.93,1,2007,PCF,Extrême gauche,national,France
+Mme VOYNET Dominique,576666,1.30,1.57,1,2007,Verts,Écologie,national,France
+Mme LAGUILLER Arlette,487857,1.10,1.33,1,2007,LO,Extrême gauche,national,France
+M. BOVÉ José,483008,1.09,1.32,1,2007,Verts,Écologie,national,France
+M. NIHOUS Frédéric,420645,0.95,1.15,1,2007,CPNT,Divers,national,France
+M. SCHIVARDI Gérard,123540,0.28,0.34,1,2007,PT,Extrême gauche,national,France
+M. SARKOZY Nicolas,18983138,42.68,53.06,2,2007,UMP,Droite,national,France
+Mme ROYAL Ségolène,16790440,37.75,46.94,2,2007,PS,Gauche,national,France
+M. HOLLANDE François,10272705,22.32,28.63,1,2012,PS,Gauche,national,France
+M. SARKOZY Nicolas,9753629,21.19,27.18,1,2012,UMP,Droite,national,France
+Mme LE PEN Marine,6421426,13.95,17.90,1,2012,FN,Extrême droite,national,France
+M. MÉLENCHON Jean-Luc,3984822,8.66,11.10,1,2012,PG,Gauche radicale,national,France
+M. BAYROU François,3275122,7.12,9.13,1,2012,MoDem,Centre,national,France
+Mme JOLY Eva,828345,1.80,2.31,1,2012,EELV,Écologie,national,France
+M. DUPONT-AIGNAN Nicolas,643907,1.40,1.79,1,2012,DLF,Souverainiste,national,France
+M. POUTOU Philippe,411160,0.89,1.15,1,2012,NPA,Extrême gauche,national,France
+Mme ARTHAUD Nathalie,202548,0.44,0.56,1,2012,LO,Extrême gauche,national,France
+M. CHEMINADE Jacques,89545,0.19,0.25,1,2012,S&P,Divers,national,France
+M. HOLLANDE François,18000668,39.08,51.64,2,2012,PS,Gauche,national,France
+M. SARKOZY Nicolas,16860685,36.60,48.36,2,2012,UMP,Droite,national,France
+M. MACRON Emmanuel,8656346,18.19,24.01,1,2017,EM,Centre,national,France
+Mme LE PEN Marine,7678491,16.14,21.30,1,2017,FN,Extrême droite,national,France
+M. FILLON François,7212995,15.16,20.01,1,2017,LR,Droite,national,France
+M. MÉLENCHON Jean-Luc,7059951,14.84,19.58,1,2017,FI,Gauche radicale,national,France
+M. HAMON Benoît,2291288,4.82,6.36,1,2017,PS,Gauche,national,France
+M. DUPONT-AIGNAN Nicolas,1695000,3.56,4.70,1,2017,DLF,Souverainiste,national,France
+M. LASSALLE Jean,435301,0.91,1.21,1,2017,Rés,Divers,national,France
+M. POUTOU Philippe,394505,0.83,1.09,1,2017,NPA,Extrême gauche,national,France
+M. ASSELINEAU François,332547,0.70,0.92,1,2017,UPR,Souverainiste,national,France
+Mme ARTHAUD Nathalie,232384,0.49,0.64,1,2017,LO,Extrême gauche,national,France
+M. CHEMINADE Jacques,65586,0.14,0.18,1,2017,S&P,Divers,national,France
+M. MACRON Emmanuel,20743128,43.61,66.10,2,2017,EM,Centre,national,France
+Mme LE PEN Marine,10638475,22.36,33.90,2,2017,FN,Extrême droite,national,France
+M. MACRON Emmanuel,9783058,20.69,27.85,1,2022,LREM,Centre,national,France
+Mme LE PEN Marine,8133828,17.20,23.15,1,2022,RN,Extrême droite,national,France
+M. MÉLENCHON Jean-Luc,7712520,16.31,21.95,1,2022,FI,Gauche radicale,national,France
+M. ZEMMOUR Éric,2485226,5.26,7.07,1,2022,Rec,Extrême droite,national,France
+Mme PÉCRESSE Valérie,1679084,3.55,4.78,1,2022,LR,Droite,national,France
+M. JADOT Yannick,1627853,3.44,4.63,1,2022,EELV,Écologie,national,France
+M. LASSALLE Jean,1101387,2.33,3.13,1,2022,Rés,Divers,national,France
+M. ROUSSEL Fabien,802422,1.70,2.28,1,2022,PCF,Extrême gauche,national,France
+M. DUPONT-AIGNAN Nicolas,725176,1.53,2.06,1,2022,DLF,Souverainiste,national,France
+Mme HIDALGO Anne,616478,1.30,1.75,1,2022,PS,Gauche,national,France
+M. POUTOU Philippe,268904,0.57,0.77,1,2022,NPA,Extrême gauche,national,France
+Mme ARTHAUD Nathalie,197096,0.42,0.56,1,2022,LO,Extrême gauche,national,France
+M. MACRON Emmanuel,18768639,38.52,58.55,2,2022,LREM,Centre,national,France
+Mme LE PEN Marine,13288686,27.27,41.45,2,2022,RN,Extrême droite,national,France
